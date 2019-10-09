@@ -16,4 +16,8 @@
             Pesawat R-80</string>
     <string name="donasi">Donasi Pesawat R-80</string>
     <string name="ajakan">Sudah saatnya Indonesia punya pesawat sendiri, Salurkan donasi anda!</string>
+    <string name="nama_anda">Nama Anda</string>
+    <string name="email">Alamat Email</string>
+    <string name="jml_donasi">Jumlah Donasi</string>
+    <string name="catatan">Tambah Catatan</string>
 </resources>

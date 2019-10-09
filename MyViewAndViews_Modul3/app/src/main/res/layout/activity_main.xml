@@ -203,11 +203,15 @@
         </RelativeLayout>
 
         <Button
+            android:id="@+id/donasi_btn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="DONASI :)"
             android:layout_marginLeft="@dimen/activity_vertical_layout"
-            android:layout_marginRight="@dimen/activity_vertical_layout"/>
+            android:layout_marginRight="16dp"
+            android:background="@drawable/button_style"
+            android:textColor="#fff"
+            android:textSize="20dp"/>
     </LinearLayout>
 
 
