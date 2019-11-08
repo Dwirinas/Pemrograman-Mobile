@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Polines</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akuntansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM Pengembangan Pengetahuan</item>
+        <item>UKM KWU</item>
+        <item>UKM Jazirah</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpunan
+            Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+            organ isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa
+            Jurusan Tek nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan Mahasiswa
+            Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan
+            di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Sipil untuk melaksanakan
+            kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan Mahasiswa Jurusan
+            yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat
+            jurusan, yang dibentuk oleh mahasiswa Jurusan Teknik Mesin untuk melaksanakan kegiatan
+            Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mahasiswa Jurusan yang
+            ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan di tingkat
+            jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi untuk melaksanakan kegiatan Tri
+            Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu Himpunan Mahasiswa
+            Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi kemahasiswaan
+            di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Administrasi Bisnis untuk
+            melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disingkat UKM PCC,
+            merupakan organisasi di Politeknik Negeri Semarang yang bergerak di bidang informasi
+            dan teknologi. UKM Polytechnic Computer Club secara eksplisit terbagi menjadi
+            dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di Politeknik
+            Negeri Semarang yang bergerak di bidang Kesenian. Nama UKM Komunitas Seni Polines
+            diresmikan pada tanggal 21 Juni 2003. Fungsi UKM KoNSeP adalah sebagai satu satunya
+            sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dalam bidang seni
+            dan berorganisasi.</item>
+        <item>UKM Pengembangan Pengetahuan semakin jelas dan memiliki jati diri yaitu dengan menekan
+            kegiatannya pada bidang penelitian, baik bersifat sosial maupun rekayasa. UKM PP dalam
+            Anggaran Dasarnya memiliki sasaran dan tujuan yang jelas dengan selalu menanamkan
+            semboyan Science without Religion is blind, Religion without Science is lame memberikan
+            semangat menuju UKM PP yang Terdepan Maju dan Tepercaya</item>
+        <item>UKM KWU didirikan pada tanggal 13 Januari 2005 oleh seorang mahasiswa dari Jurusan
+            Teknik Mesin yang bernama Kuntoro. UKM KWU menyatukan mahasiswa yang memiliki minat
+            dan bakat untuk berwirausaha, serta mengajarkan tentang ilmu-ilmu berwirausaha yang tepat.
+            UKM KWU membina dan melatih pengurusnya menjadi wirausaha muda yang siap menghadapi
+            persaingan dunia.</item>
+        <item>UKM JAZIRAH UKM JAZIRAH adalah Organisasi kemahasiswaan Politeknik Negeri Semarang
+            yang bergerak di Civitas Akademika Politeknik Negeri Semarang khususnya dan masyarakat
+            umumnya dalam bidang dakwah Islam, amar ma’ruf nahi mungkar, beraqidah Islam dan
+            berlandaskan Al-Qur’an dan As-Sunnah.</item>
+    </string-array>
+
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/rmkLvH51/pp.png</item>
+        <item>https://i.postimg.cc/Gtj37CNT/kwu.jpg</item>
+        <item>https://i.postimg.cc/MKtmCjJX/jazirah.jpg</item>
+
+    </string-array>
+</resources>
