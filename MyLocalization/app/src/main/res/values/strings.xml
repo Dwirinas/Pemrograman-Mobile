@@ -1,0 +1,28 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name" translatable="false">My Multilanguage App</string>
+
+    <string name="football">Indonesia National Team Win Againts Thailand National Team</string>
+    <string name="goal">Goal from Indonesia scored by %1$s and %2$s, so the final score is %3$d -%4$d for Indonesia victory </string>
+
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d song found</item>
+        <item quantity="other">%d song found</item>
+    </plurals>
+
+    <string name="app_homeurl">
+        Visit us at <xliff:g
+        id="homepage">https://www.polines.ac.id</xliff:g>
+    </string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="tab_text1">Home</string>
+    <string name="tab_text2">Profile</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="name">Name : Dwi Rinayatus S</string>
+    <string name="address">Address : Perum GKGA BB-19 Gresik</string>
+    <string name="hobby">Hobby : Listen to songs</string>
+    <string name="quotes">Quotes : Always spread positive vibes</string>
+</resources>
