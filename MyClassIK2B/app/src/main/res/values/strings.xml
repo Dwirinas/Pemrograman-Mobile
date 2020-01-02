@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">MyClass-IK-2B</string>
+
+    <string name="no">Nomor</string>
+    <string name="nama">Nama</string>
+    <string name="alamat">Alamat</string>
+    <string name="ttl">Tanggal Lahir</string>
+    <string name="sex">Jenis Kelamin</string>
+    <string name="save">Simpan</string>
+    <string name="update">Update</string>
+    <string name="informasi">Aplikasi ini adalah aplikasi yang sangat membantu dalam kegiatan anda yang berisi informasi
+    tentang manfaat belajar android</string>
+    <string name="owner">Created By : Dwi Rinayatus S</string>
+    <string name="version">Version : 1.1</string>
+    <string name="email">E-mail : dwirinayatus9b@gmail.com</string>
 </resources>
