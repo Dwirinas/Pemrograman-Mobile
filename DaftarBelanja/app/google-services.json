@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "843467342953",
+    "firebase_url": "https://daftar-belanja-3eaf8.firebaseio.com",
+    "project_id": "daftar-belanja-3eaf8",
+    "storage_bucket": "daftar-belanja-3eaf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843467342953:android:624a2e344622c418ed0ef8",
+        "android_client_info": {
+          "package_name": "com.rina.daftarbelanja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843467342953-umii80kgv5fnb9gfh72c42j5uccstjdu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYXJSO93EJAemcCMp6idQcNv1Dzh_Z8Hw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843467342953-umii80kgv5fnb9gfh72c42j5uccstjdu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
