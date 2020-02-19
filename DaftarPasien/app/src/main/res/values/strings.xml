@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Patient List</string>
+    <string name="no">Number</string>
+    <string name="nama">Name</string>
+    <string name="ttl">Date of birth</string>
+    <string name="sex">Gender</string>
+    <string name="address">Disease History</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="informasi">This application contains a list of Hospital Patient names that contain many features namely view data, input data, update data, delete data, and information about the application maker</string>
+    <string name="owner">Created By : Risnadona Putra Milandika and Dwi Rinayatus Sa adah</string>
+    <string name="version">Version : 1.1</string>
+    <string name="email_profil">Email : risnadona17@gmail.com, dwirinayatus9b@gmail.com</string>
+    <string name="Profil">Profil</string>
+
+    <string name="this_Profil">BIO</string>
+    <string name="isiNama">: Risnadona Putra Milandika </string>
+    <string name="isiEmail">: risnadona17@gmail.com</string>
+    <string name="isiasal">: Wonogiri</string>
+    <string name="isihobi">: Football</string>
+
+    <string name="isiNama1">: Dwi Rinayatus S </string>
+    <string name="isiEmail1">: dwirinayatus9b@gmail.com</string>
+    <string name="isiasal1">: Gresik</string>
+    <string name="isihobi1">: Listening Music</string>
+
+
+    <string name="Nama">Name</string>
+    <string name="Email">Email</string>
+    <string name="asal">Place</string>
+    <string name="hobi">Hobby</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="mkn">Patient Data</string>
+    <string name="tbhdt">Add Patient Data</string>
+    <string name="infor">Information</string>
+
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="register">Register</string>
+    <string name="back_to_login">Back to Login</string>
+
+    <string name="masukkan_data">Input Data</string>
+    <string name="profilsaya">My Profile</string>
+
+</resources>

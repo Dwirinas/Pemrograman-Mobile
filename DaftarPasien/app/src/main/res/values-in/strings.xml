@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Daftar Pasien</string>
+<string name="no">Nomor</string>
+<string name="nama">Nama</string>
+<string name="ttl">Tanggal Lahir</string>
+<string name="sex">Jenis Kelamin</string>
+<string name="address">Riwayat Penyakit</string>
+<string name="save">Simpan</string>
+<string name="update">Update</string>
+<string name="informasi">Aplikasi ini berisi daftar nama-nama Pasien Rumah Sakit yang berisi banyak fitur yaitu lihat data,input data,update data,hapus data,dan informasi mengenai pembuat aplikasi</string>
+<string name="owner">dibuat oleh: Risnadona Putra Milandika dan Dwi Rinayatus Sa adah</string>
+<string name="version">Version : 1.1</string>
+<string name="email_profil">Email : risnadona17@gmail.com, dwirinayatus9b@gmail.com</string>
+<string name="Profil">Profil</string>
+
+<string name="this_Profil">BIODATA</string>
+<string name="isiNama">: Risnadona Putra Milandika </string>
+<string name="isiEmail">: risnadona17@gmail.com</string>
+<string name="isiasal">: Wonogiri</string>
+<string name="isihobi">: Sepakbola</string>
+
+    <string name="isiNama1">: Dwi Rinayatus S </string>
+    <string name="isiEmail1">: dwirinayatus9b@gmail.com</string>
+    <string name="isiasal1">: Gresik</string>
+    <string name="isihobi1">: Mendengarkan Musik</string>
+
+
+<string name="Nama">Nama </string>
+<string name="Email">Email</string>
+<string name="asal">Asal</string>
+<string name="hobi">Hobi</string>
+<string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="mkn">Data Pasien </string>
+    <string name="tbhdt">Tambah Data</string>
+    <string name="infor">Informasi</string>
+
+    <string name="create_account"><font color="#00ff00">text</font></string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Masuk</string>
+    <string name="username">Username</string>
+    <string name="register">Daftar</string>
+    <string name="back_to_login">Kembali ke login</string>
+
+    <string name="masukkan_data">Masukkan Data</string>
+    <string name="profilsaya">Profil Saya</string>
+
+
+
+    </resources>
